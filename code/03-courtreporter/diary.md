@@ -9,5 +9,9 @@ July 27th
 
 I decided that for my real-life purpose I might not need a graph at all.Maybe? Have to think about it!
 
+July 30th
+
+--
+
 # Links
 http://seethroughny.net/payrolls
