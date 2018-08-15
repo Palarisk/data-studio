@@ -1,0 +1,3 @@
+-Couldn't get Twitterscraper to work
+-Tried to use Workbench, but it was only able to pull tweets from the last 10 days. That's what Twitter API allows you to do
+-Changed the course and decided to analyze a content of a FB group instead.
